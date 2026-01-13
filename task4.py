@@ -15,7 +15,6 @@ ANSWER BOX - Copy the strings you need:
 ") Stretch it out.\n"
 """
 
-
 def main():
     color1 = "Blue"
     color2 = "Purple"
